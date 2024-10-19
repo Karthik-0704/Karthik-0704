@@ -45,8 +45,12 @@
    </a>
 </div>
 
+<br>
+
 ###
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-<br clear="both">
+<div align="center">
+  <img src = "https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in&layout=default&font=default&quoteType=quote-for-the-day&fontColor=magenta">
+</div>
+
 
 ###
