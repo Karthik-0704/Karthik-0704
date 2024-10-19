@@ -1,7 +1,8 @@
-<h1 align = "center">Hi there, I'm Karthikeyan 👋<br></h1>
-<h3 align="left">🎓 Student | AI/ML Enthusiast<br><br>I am passionate about Artificial Intelligence and Machine Learning to solve real-world problems. <br><br>🔧 What I'm Working On:<br><br>MLOps: Automating and streamlining ML workflows to enhance productivity and model reliability.<br><br>Generative AI: Exploring generative models such as LLMs and LRMs, and their applications in content creation, design, and more. <br><br>
-🖥️Languages and Frameworks<br></h3>
+<h1 align = "center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=AC4DF7&center=true&width=435&lines=Greetings!!%2C+I'm+Karthikeyan;Welcome+to+my+GitHub+profile!+%F0%9F%8E%89" alt="Typing SVG" /></a></a></a></a><br></h1>
 
+<h3 align="left">🎓 Student | AI/ML Enthusiast<br><br>I am passionate about Artificial Intelligence and Machine Learning to solve real-world problems. <br><br>🔧 What I'm Working On:<br><br>-MLOps: Automating and streamlining ML workflows to enhance productivity and model reliability.<br><br>-Generative AI: Exploring generative models such as LLMs and LRMs, and their applications in content creation, design, and more. <br><br>
+</h3>
+<h2>🖥️Languages and Frameworks<br></h2>
 
 
 ###
@@ -30,18 +31,22 @@
 
 ###
 
-<h3>🌐 Connect with Me</h3>
+<h2>🌐 Connect with Me</h2>
 
-<div align="left">
-  <a href = "mailto:skarthiksubramanian0704@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
-<a href = https://www.linkedin.com/in/karthik-s-095588259/><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
-<a href="https://X.com/Karthik_S742" target="_blank">
+<div align="center">
+    <a href="mailto:skarthiksubramanian0704@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" height = "40px"/>
+  </a>
+  <a href="https://www.linkedin.com/in/karthik-s-095588259/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height = "40px"/>
+  </a>
+  <a>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdB-EbJVMxRYtNz1i4dn7jOVSfHq-002oe4w&amp;s" class="sFlh5c FyHeAf" alt="Twitter X Logo - Free Vectors &amp; PSDs to Download" jsname="JuXqh" style="max-width: 338px; position: absolute; visibility: hidden;" data-ilt="1729328159427" height="40px"/>
    </a>
 </div>
 
 ###
-
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 <br clear="both">
 
 ###
