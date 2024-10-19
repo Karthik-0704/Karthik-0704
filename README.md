@@ -34,8 +34,11 @@
 
 <div align="left">
   <a href = "mailto:skarthiksubramanian0704@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
-<a href = https://www.linkedin.com/in/karthik-s-095588259/><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div></a>
+<a href = https://www.linkedin.com/in/karthik-s-095588259/><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+<a href="https://X.com/Karthik_S742" target="_blank">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdB-EbJVMxRYtNz1i4dn7jOVSfHq-002oe4w&amp;s" class="sFlh5c FyHeAf" alt="Twitter X Logo - Free Vectors &amp; PSDs to Download" jsname="JuXqh" style="max-width: 338px; position: absolute; visibility: hidden;" data-ilt="1729328159427" height="40px"/>
+   </a>
+</div>
 
 ###
 
