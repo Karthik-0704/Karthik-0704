@@ -48,7 +48,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="https://orcid.org/your_orcid_id" target="_blank" style="text-decoration: none; border: none; outline: none;">
+<a href="https://orcid.org/0009-0004-3539-6786" target="_blank" style="text-decoration: none; border: none; outline: none;">
     <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
 </a>
 
